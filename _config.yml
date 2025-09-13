@@ -33,5 +33,10 @@ plugins:
 remote_theme: jekyll/minima
 # remote_theme: just-the-docs/just-the-docs
 
-# minima:
-#   skin: dark
+minima:
+  skin: dark
+
+collections:
+  quickref:
+    output: true
+    permalink: /quickref/:name/

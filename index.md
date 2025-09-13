@@ -24,4 +24,4 @@ title: ""
     {%- endif -%}
   </li>
   {%- endfor -%}
-    </ul>
+</ul>
