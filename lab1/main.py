@@ -5,6 +5,8 @@ from models.human import Human
 
 from enum import Enum, auto
 
+# this was shown at the end of class, not needed
+"""
 class Action():
     ATTACK = auto()
 
@@ -28,7 +30,7 @@ class Team:
         self.members = members
 
 
-
+"""
 
 def main():
     orc = Orc()
