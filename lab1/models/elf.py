@@ -7,6 +7,6 @@ class Elf(Character):
         self.armor = 3
 
         self.heal_action_count = 3
-        self.heal_action_method = self.d4
+        self.heal_action_method = self.d6
 
         self.race = "Elf"
